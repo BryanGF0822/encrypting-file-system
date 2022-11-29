@@ -6,6 +6,9 @@ Proyecto final del curso de ciberseguridad de la Universidad ICESI, en el cual s
 
 2. Para desencriptar, el programa recibe como entrada un archivo encriptado, el hash y la contraseña. El programa desencripta el archivo y escribe el resultado en un nuevo archivo. Despues, computa el hash SHA-1 del archivo desencriptado y lo compara con el hash almacenado con el archivo encriptado.
 
+### Vista interfaz de usuario
+![Captura](https://user-images.githubusercontent.com/48836505/204441379-0b5199db-7b44-4010-99ef-be530740aa64.PNG)
+
 
 ### Tecnologías usadas
 - Java 17.2
@@ -13,7 +16,8 @@ Proyecto final del curso de ciberseguridad de la Universidad ICESI, en el cual s
 - Eclipse IDE
 
 
-### ¿Cómo correr el proyecto?
+### ¿Cómo ejecutar el proyecto? 
+
 Los siguientes pasos son para compilar y hacer funionar el proyecto con javaFX:
 
 1. Verificar que al momento de usar el Eclipse IDE tener la extensión e(fx)clipse instalada desde el Eclipse Marketplace.
